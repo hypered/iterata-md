@@ -14,9 +14,9 @@ For instance a Chapter is a level-3 heading, and an Article is represented in
 
 ## Content
 
-Currently, the repository contains texts that were promulgated in 2016, as
-obtained from the Belgian Official Journal web site, more specifically from
-Justel, the consolidated texts, around 2023-10-09.
+Currently, the repository contains texts that were promulgated in 2016 and
+2017, as obtained from the Belgian Official Journal web site, more specifically
+from Justel, the consolidated texts, around 2023-10-09.
 
 [Here is a link to one example
 text](https://github.com/hypered/iterata-md/blob/main/texts/2016/2016000032.md).
