@@ -16,6 +16,7 @@ For instance a Chapter is a level-3 heading, and an Article is represented in
 
 The repository contains texts obtained from the Belgian Official Journal web
 site, more specifically from Justel (the consolidated texts) around 2023-10-09.
+Currently we only generate the French version of the texts.
 
 [Here is a link to one example
 text](https://github.com/hypered/iterata-md/blob/main/texts/2016/00/2016000032.md).
