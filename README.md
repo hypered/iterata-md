@@ -15,11 +15,13 @@ For instance a Chapter is a level-3 heading, and an Article is represented in
 ## Content
 
 The repository contains texts obtained from the Belgian Official Journal web
-site, more specifically from Justel (the consolidated texts) around 2023-10-09.
-Currently we only generate the French version of the texts.
+site, more specifically from Justel (the consolidated texts). Currently we only
+generate the French version of the texts.
 
 [Here is a link to one example
 text](https://github.com/hypered/iterata-md/blob/main/texts/2016/00/2016000032.md).
 You can use the "Go to file" button visible in the GitHub interface to navigate
 to a specific document using its document number (e.g. 2016000032 in the
 previous example).
+
+Last updated: 2023-11-29.
