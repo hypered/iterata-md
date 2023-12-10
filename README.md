@@ -24,6 +24,6 @@ You can use the "Go to file" button visible in the GitHub interface to navigate
 to a specific document using its document number (e.g. 2016000032 in the
 previous example).
 
-This repository contains 201669 legislative texts.
+This repository contains 201725 legislative texts.
 
-Last updated: 2023-12-04.
+Last updated: 2023-12-10.
