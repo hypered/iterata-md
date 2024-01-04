@@ -22,7 +22,9 @@ generate the French version of the texts.
 text](https://github.com/hypered/iterata-md/blob/main/texts/2016/00/2016000032.md).
 You can use the "Go to file" button visible in the GitHub interface to navigate
 to a specific document using its document number (e.g. 2016000032 in the
-previous example).
+previous example). The corresponding file on Lex Iterata itself can be found by
+using its number after `https://refli.be/fr/lex/`, e.g.
+https://refli.be/fr/lex/2016000032.
 
 This repository contains 202004 legislative texts.
 
