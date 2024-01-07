@@ -28,11 +28,11 @@ https://refli.be/fr/lex/2016000032.
 
 ## Updates
 
-We have to types of updates to this repository:
+We have two types of updates to this repository:
 
 - Sync, where we add new documents that appeared on Justel since the last sync.
 - Full sync, where we also regenerate everything using freshly downloaded
-  source documents from Justel. Those fyll syncs are normally created with two
+  source documents from Justel. Those full syncs are normally created with two
   commits: one for the changes, and one for the new files.
 
 Note: the date associated with a full sync is the date when we create the
