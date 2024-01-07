@@ -26,6 +26,15 @@ previous example). The corresponding file on Lex Iterata itself can be found by
 using its number after `https://refli.be/fr/lex/`, e.g.
 https://refli.be/fr/lex/2016000032.
 
-This repository contains 202004 legislative texts.
+## Updates
 
-Last updated: 2024-01-04.
+We have to types of updates to this repository:
+
+- Sync, where we add new documents that appeared on Justel since the last sync.
+- Full sync, where we also regenerate everything using freshly downloaded
+  source documents from Justel. Those fyll syncs are normally created with two
+  commits: one for the changes, and one for the new files.
+
+This repository contains 202168 legislative texts.
+
+Last updated: 2024-01-07.
