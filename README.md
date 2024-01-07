@@ -35,6 +35,12 @@ We have to types of updates to this repository:
   source documents from Justel. Those fyll syncs are normally created with two
   commits: one for the changes, and one for the new files.
 
+Note: the date associated with a full sync is the date when we create the
+commit in this repository. But the download time of the source documents can be
+older (e.g. two days) because we download files from Justel with a 1 second
+delay between each, and because manual intervention might be needed in some
+cases, causing additional delay.
+
 This repository contains 202168 legislative texts.
 
 Last updated: 2024-01-07.
