@@ -41,6 +41,6 @@ older (e.g. two days) because we download files from Justel with a 1 second
 delay between each, and because manual intervention might be needed in some
 cases, causing additional delay.
 
-This repository contains 208304 legislative texts.
+This repository contains 208323 legislative texts.
 
-Last updated: 2025-12-22.
+Last updated: 2025-12-23.
